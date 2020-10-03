@@ -1,7 +1,7 @@
 ### Hi there, This is Ayush 👋
 
 <a href="https://www.linkedin.com/in/ayushaj96/">
-  <img align="left" alt="Ayush Jain | Linkedin" width="20px" src="https://raw.githubusercontent.com/Ayushaj96/Ayushaj96/master/assets/linkedin.svg" />
+  <img align="left" alt="Ayush Jain | Linkedin" width="20px" src="https://raw.githubusercontent.com/Ayushaj96/Ayushaj96/main/assets/linkedin.svg" />
 </a>
 <!--
 **Ayushaj96/Ayushaj96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
