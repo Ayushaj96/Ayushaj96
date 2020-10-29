@@ -3,7 +3,8 @@
 <a href="https://www.linkedin.com/in/ayushaj96/">
   <img align="left" alt="Ayush Jain | Linkedin" width="20px" src="https://raw.githubusercontent.com/Ayushaj96/Ayushaj96/main/assets/linkedin.svg" />
 </a>
-
+<br />
+<br />
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: ayushaj007@gmail.com
 <!--
