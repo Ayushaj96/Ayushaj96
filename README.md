@@ -1,4 +1,5 @@
-### Hi there, This is Ayush 👋
+# Hey <img src="https://raw.githubusercontent.com/Ayushaj96/Ayushaj96/main/wave.gif" width="40px">, I'm Ayush Jain!
+<br/>
 
 <a href="https://www.linkedin.com/in/ayushaj96/">
   <img align="left" alt="Ayush Jain | Linkedin" width="20px" src="https://raw.githubusercontent.com/Ayushaj96/Ayushaj96/main/assets/linkedin.svg" />
