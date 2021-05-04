@@ -3,7 +3,7 @@
 ## :email: Find me on:
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushaj96/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" alt="Ayush Linkedin" height="40" style="vertical-align:top; margin:4px"> </a>
-  <a href="ayushaj007@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="Ayush Gmail" height="40" style="vertical-align:top; margin:4px"></a>  
+  <a href="mailto:ayushaj007@gmail.com"> <img src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="Ayush Gmail" height="40" style="vertical-align:top; margin:4px"></a>  
 </p>
 
 <br />
