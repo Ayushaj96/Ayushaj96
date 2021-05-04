@@ -1,14 +1,14 @@
 # Hey <img src="https://raw.githubusercontent.com/Ayushaj96/Ayushaj96/main/wave.gif" width="40px">, I'm Ayush Jain!
 
-<br/>
-<a href="https://www.linkedin.com/in/ayushaj96/">
-  <img align="left" alt="Ayush Linkedin" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
-</a>
-<a href="ayushaj007@gmail.com">
-  <img align="left" alt="Ayush Gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
-</a>
-<br>
-<br>
+## :email: Find me on:
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushaj96/">
+    <img align="left" alt="Ayush Linkedin" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+  </a>
+  <a href="ayushaj007@gmail.com">
+    <img align="left" alt="Ayush Gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+  </a>
+</p>
 
 ## 🧰 Languages and Tools:
 <p align="center">
